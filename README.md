@@ -5,3 +5,5 @@
 >Time complexity is O(nlog(n))
 ## 02_merge_sort_non_recurrence
 >Time complexity is O(nlog(n))
+## 03_quick_sort_recurrence
+>average time complexity is O(nlog(n)), worst case time complexity is O(nlog(n))
